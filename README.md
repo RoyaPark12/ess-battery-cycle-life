@@ -58,6 +58,15 @@ pip install -r requirements.txt
 jupyter notebook 01_EDA.ipynb 02_Modeling.ipynb
 ```
 
+실행 전 프로젝트 루트에 `archive/` 폴더를 만들고 다음 과제 제공 파일을 배치한다.
+
+```text
+archive/
+├── 2017-05-12_batchdata_updated_struct_errorcorrect.mat
+├── 2018-02-20_batchdata_updated_struct_errorcorrect.mat
+└── 2018-04-12_batchdata_updated_struct_errorcorrect.mat
+```
+
 ## EDA
 
 ### Cycle Life 분포
