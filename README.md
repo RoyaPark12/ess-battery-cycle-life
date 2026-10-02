@@ -51,7 +51,7 @@ ESS 배터리의 예상보다 이른 수명 종료는 교체 비용과 전력 �
 
 ```bash
 git clone https://github.com/RoyaPark12/ess-battery-cycle-life.git
-cd data_analysis_miniproject
+cd ess-battery-cycle-life
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
