@@ -1,0 +1,11 @@
+.venv/
+archive/
+*.mat
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.vscode/
+30-ESSHealth-scratch.ipynb
+ESS *.html
+DS-MINI-Design-*.pdf
+DS-MINI-Design-*.pptx
